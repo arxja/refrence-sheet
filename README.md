@@ -139,3 +139,5 @@ got tired of:
 - Keeping track of scattered notes across multiple apps
 Now, when I need to check my Git cheatsheet, Docker commands, or React patterns, I just type `ref open git` and I'm right in my notes, inside VS Code.
 
+## 📄 License
+MIT - feel free to use, modify, and share!
